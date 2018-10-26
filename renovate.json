@@ -2,5 +2,6 @@
   "prHourlyLimit": "100",
   "extends": [
     "config:base"
-  ]
+  ],
+  "renovateFork": true
 }
